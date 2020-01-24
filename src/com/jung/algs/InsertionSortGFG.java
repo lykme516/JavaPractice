@@ -1,5 +1,8 @@
 package com.jung.algs;
 
+/**
+ * This is the example found on Geeks for Geeks
+ */
 public class InsertionSortGFG {
     /*Function to sort array using insertion sort*/
     void sort(int arr[])
